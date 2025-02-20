@@ -1,0 +1,745 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\views\\order\\beklenen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\views\\order\\beklenen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\views\\order\\kargolanan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\views\\order\\kargolanan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\customer\\views\\cart\\siparistamam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\customer\\views\\cart\\siparistamam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\models\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\models\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\migrations\\20240623212925_cardandorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\migrations\\20240623212925_cardandorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\migrations\\20240623212925_cardandorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\migrations\\20240623212925_cardandorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\email\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\email\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\migrations\\20240622163048_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\migrations\\20240622163048_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\migrations\\20240621184407_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\migrations\\20240621184407_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\migrations\\20240621183117_adddefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\migrations\\20240621183117_adddefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|c:\\users\\melisa\\source\\repos\\shoppingmells\\shoppingmells\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5D5E67-6835-4784-8860-598F511CBF74}|ShoppingMells\\ShoppingMells.csproj|solutionrelative:shoppingmells\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAEEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T12:57:01.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:21:13.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T01:35:52.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAF0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T00:36:14.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Beklenen.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Order\\Beklenen.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Views\\Order\\Beklenen.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Order\\Beklenen.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Views\\Order\\Beklenen.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T00:08:17.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:10:02.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwB8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:39:50.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T15:33:14.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAB8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:50:40.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Kargolanan.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Order\\Kargolanan.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Views\\Order\\Kargolanan.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Order\\Kargolanan.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Views\\Order\\Kargolanan.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T00:07:06.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ShoppingMells\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:24:08.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SiparisTamam.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\Cart\\SiparisTamam.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Customer\\Views\\Cart\\SiparisTamam.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\Cart\\SiparisTamam.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Customer\\Views\\Cart\\SiparisTamam.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:36:12.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T23:56:43.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T19:08:07.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShoppingCartVM.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\ShoppingCartVM.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Models\\ShoppingCartVM.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\ShoppingCartVM.cs",
+              "RelativeToolTip": "ShoppingMells\\Models\\ShoppingCartVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:06:34.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Models\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\OrderHeader.cs",
+              "RelativeToolTip": "ShoppingMells\\Models\\OrderHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:22:00.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAUwF4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:31:04.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Models\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\SessionExtensions.cs",
+              "RelativeToolTip": "ShoppingMells\\Models\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:05:08.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240623212925_CardAndOrder.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Migrations\\20240623212925_CardAndOrder.Designer.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Migrations\\20240623212925_CardAndOrder.Designer.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Migrations\\20240623212925_CardAndOrder.Designer.cs",
+              "RelativeToolTip": "ShoppingMells\\Migrations\\20240623212925_CardAndOrder.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:31:39.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240623212925_CardAndOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Migrations\\20240623212925_CardAndOrder.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Migrations\\20240623212925_CardAndOrder.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Migrations\\20240623212925_CardAndOrder.cs",
+              "RelativeToolTip": "ShoppingMells\\Migrations\\20240623212925_CardAndOrder.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAYwMgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:29:25.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Startup.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Startup.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Startup.cs",
+              "RelativeToolTip": "ShoppingMells\\Startup.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:37:52.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "ShoppingMells\\Models\\OrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:25:00.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "ShoppingMells\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:18:36.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ShoppingMells\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:36:12.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T17:07:08.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAMBdwEkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T16:48:50.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\Product.cs",
+              "RelativeToolTip": "ShoppingMells\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:19:42.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Email\\EmailSender.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Email\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Email\\EmailSender.cs",
+              "RelativeToolTip": "ShoppingMells\\Email\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:32:14.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ShoppingMells\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ShoppingMells\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-22T22:44:11.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBZwDsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T19:13:26.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAkwLgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:38:23.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBZwCIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:12:47.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBZwD8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T18:55:28.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:18:31.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240622163048_AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Migrations\\20240622163048_AddProduct.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Migrations\\20240622163048_AddProduct.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Migrations\\20240622163048_AddProduct.cs",
+              "RelativeToolTip": "ShoppingMells\\Migrations\\20240622163048_AddProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:30:49.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwBIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T15:58:24.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T15:46:24.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:49:47.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240621184407_AddCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Migrations\\20240621184407_AddCategory.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Migrations\\20240621184407_AddCategory.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Migrations\\20240621184407_AddCategory.cs",
+              "RelativeToolTip": "ShoppingMells\\Migrations\\20240621184407_AddCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:44:07.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Models\\Category.cs",
+              "RelativeToolTip": "ShoppingMells\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:36:53.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240621183117_AddDefault.cs",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Migrations\\20240621183117_AddDefault.cs",
+              "RelativeDocumentMoniker": "ShoppingMells\\Migrations\\20240621183117_AddDefault.cs",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Migrations\\20240621183117_AddDefault.cs",
+              "RelativeToolTip": "ShoppingMells\\Migrations\\20240621183117_AddDefault.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:31:18.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoppingMells\\appsettings.json",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\appsettings.json",
+              "RelativeToolTip": "ShoppingMells\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T18:24:25.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:08:49.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:08:33.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ShoppingMells\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Melisa\\source\\repos\\ShoppingMells\\ShoppingMells\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ShoppingMells\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T17:42:01.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
